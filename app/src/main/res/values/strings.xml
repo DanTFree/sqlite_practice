@@ -1,0 +1,13 @@
+<resources>
+    <!-- <string name=""> </string> -->
+    <string name="app_name">SqlitePractice</string>
+    <string name="nameField"> Name </string>
+    <string name="phoneField"> Phone Number </string>
+    <string name="insertButton"> Save </string>
+    <string name="readButton"> Display </string>
+    <string name="deleteButton"> Delete </string>
+    <string name="returnButton"> Return </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
